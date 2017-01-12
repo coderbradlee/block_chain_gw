@@ -1,6 +1,8 @@
 {
-    "port":":9090",
-    "exec_time": "11:00",
+	"ip":"127.0.0.1",
+    "port":"19001",
+    "user": "admin1",
+    "pass": "123",
     "log_name":"go.log"
 }
 
